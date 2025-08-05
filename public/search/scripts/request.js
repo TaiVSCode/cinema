@@ -3,6 +3,7 @@
 // Service definitions with dependency requirements
 const services = [
 	{ name: 'Bilibili', icon: 'bilibili', url: 'https://www.bilibili.com/', action: 'select', requiresCodec: true },
+	{ name: 'AGE', icon: 'agedm', url: 'https://www.agedm.vip/', action: 'select', requiresCodec: true },
 	{ name: 'YouTube', icon: 'youtube', url: 'https://youtube.com/', action: 'select', requiresCodec: false },
 	{ name: 'TikTok', icon: 'tiktok', url: 'https://tiktok.com/', action: 'select', requiresCodec: true },
 	{ name: 'SoundCloud', icon: 'soundcloud', url: 'https://soundcloud.com/discover', action: 'select', requiresCodec: false },
