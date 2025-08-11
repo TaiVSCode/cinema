@@ -158,6 +158,14 @@ body {
 	background-image: url(../images/logos/bilibili.svg);
 }
 
+.logo-agedm {
+	background-image: url(../images/logos/agedm.png);
+}
+
+.logo-yhdm {
+	background-image: url(../images/logos/yhdm.png);
+}
+
 .logo-archive {
 	background-image: url(../images/logos/archive.png);
 }
