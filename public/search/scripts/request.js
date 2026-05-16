@@ -12,7 +12,6 @@ const services = [
 	{ name: 'Dailymotion', icon: 'dailymotion', url: 'https://www.dailymotion.com/', action: 'select', requiresCodec: true },
 	{ name: 'Twitch', icon: 'twitch', url: 'https://www.twitch.tv/', action: 'select', requiresCodec: true },
 	{ name: 'Rumble', icon: 'rumble', url: 'https://rumble.com/', action: 'select', requiresCodec: true },
-	{ name: 'DLive', icon: 'dlive', url: 'https://dlive.tv/', action: 'select', requiresCodec: true },
 	{ name: 'Kick', icon: 'kick', url: 'https://kick.com/', action: 'select', requiresCodec: true },
 	{ name: 'Archive', icon: 'archive', url: 'https://archive.org/details/movies', action: 'select', requiresCodec: true },
 	{ name: 'VK Видео', icon: 'vk', url: 'https://vkvideo.ru/', action: 'select', requiresCodec: true },
