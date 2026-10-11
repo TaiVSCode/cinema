@@ -112,7 +112,7 @@ jobs:
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
         run: |
-          npx surge ./public "https://gm-cinema.purrcoding.com"
+          npx surge ./public "taivscode.surge.sh"
 
       - name: Deployment successful
         run: |
